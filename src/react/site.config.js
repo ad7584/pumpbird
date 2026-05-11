@@ -20,7 +20,7 @@ export const BRAND = {
 export const TOKEN = {
   symbol: '$PUMPBIRD',
   network: 'Solana',
-  contractAddress: 'TBA — drops soon', // paste real CA when ready
+  contractAddress: '6bcVLzU1syRa9YMyqLbqqZ1dfJfwXVfE54wDxJp2pump', // paste real CA when ready
   perks: [
     'Free plays for holders',
     'Buy back and burns',
@@ -31,7 +31,7 @@ export const TOKEN = {
 // ─── Socials ────────────────────────────────────────────────
 // Empty string = hidden.
 export const SOCIALS = {
-  x:        'https://x.com/adriacalls',
+  x:        'https://x.com/AdriaCalls/status/2053917682513375270',
   telegram: '',  // e.g. 'https://t.me/printrbird'
   discord:  '',  // e.g. 'https://discord.gg/printr'
 };
