@@ -57,7 +57,7 @@ export default function GameHome({
         </div>
 
         <h1 className="gh-title">
-          PRINTR <span className="gh-title-accent">BIRD</span>
+          PUMP <span className="gh-title-accent">BIRD</span>
         </h1>
 
         <div className="gh-bird-stage">
